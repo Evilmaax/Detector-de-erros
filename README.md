@@ -20,10 +20,10 @@ Algorithms developed by Maximiliano Meyer during the Data Communication discipli
 
 The project has the following functionalities:
 <lu>
-  <lu>Conversion from ASCII to Binary</li>
-<lu>Conversion from ASCII to Binary</li>
-<lu>Hamming check</li>
-<lu>Checksum Check</li>
-<lu>CRC verification</li>
+<li>Conversion from ASCII to Binary</li>
+<li>Conversion from ASCII to Binary</li>
+<li>Hamming check</li>
+<li>Checksum Check</li>
+<li>CRC verification</li>
 </lu>  
 The algorithm was developed in C.
