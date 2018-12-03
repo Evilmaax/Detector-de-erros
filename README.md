@@ -13,3 +13,17 @@ O projeto tem as seguintes funcionalidades:
 </lu>
 
 O algoritmo foi desenvolvidos em C.
+
+
+<h2>Project developed during the course of Data Communication</h2>
+Algorithms developed by Maximiliano Meyer during the Data Communication discipline of the 5th semester of the Computer Science course at Unisc - University of Santa Cruz do Sul.
+
+The project has the following functionalities:
+<lu>
+  <lu>Conversion from ASCII to Binary</li>
+<lu>Conversion from ASCII to Binary</li>
+<lu>Hamming check</li>
+<lu>Checksum Check</li>
+<lu>CRC verification</li>
+</lu>  
+The algorithm was developed in C.
